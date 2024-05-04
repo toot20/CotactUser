@@ -11,16 +11,6 @@ import static io.restassured.RestAssured.given;
 public class Authentication {
 
     public static String generateToken() {
-/*        Map<String, String> bodyMap = new HashMap<>();
-
-        if (email == null) {
-            bodyMap.put("email", "jasonsteel@gmail.com");
-            bodyMap.put("password", "Jason.123");
-        } else {
-            bodyMap.put("email", email);
-            bodyMap.put("password", "Password.123");
-        }*/
-
 
         String strJson = """
                 {
