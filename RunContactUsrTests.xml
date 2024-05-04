@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="All Test Suite">
+    <test verbose="2" preserve-order="true"
+          name="C:\Users\سعيد علي\IdeaProjects\Cotact\src\test\java\Homework15">
+        <classes>
+            <class name="Homework15.CreateUser"></class>
+            <class name="Homework15.GetUser"></class>
+            <class name="Homework15.UpdateUser"></class>
+            <class name="Homework15.DeleteUser"></class>
+        </classes>
+    </test>
+</suite>
