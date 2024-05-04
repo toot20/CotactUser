@@ -24,8 +24,8 @@ public class Authentication {
 
         String strJson = """
                 {
-                    "email" : "Test2@fake.com",
-                    "password" : "myNewPassword"
+                    "email" : "atikah@fake.com",
+                    "password" : "myPassword"
                 }
                 """;
 
